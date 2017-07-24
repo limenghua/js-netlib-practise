@@ -18,6 +18,7 @@
   "homepage": "https://github.com/limenghua/js-netlib-practise#readme",
   "dependencies": {
     "async-pinger": "^1.0.1",
+    "moment": "^2.18.1",
     "net-ping": "^1.2.0",
     "ping": "^0.2.2",
     "raw-socket": "^1.5.1",
@@ -25,6 +26,7 @@
     "ssh2": "^0.5.5",
     "telnet-client": "^0.15.0",
     "telnet-rxjs": "^2.0.1",
-    "ws": "^3.0.0"
+    "ws": "^3.0.0",
+    "zeromq": "^4.5.0"
   }
 }
