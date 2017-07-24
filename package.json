@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/limenghua/js-netlib-practise#readme",
   "dependencies": {
+    "amqplib": "^0.5.1",
     "async-pinger": "^1.0.1",
     "moment": "^2.18.1",
     "net-ping": "^1.2.0",
