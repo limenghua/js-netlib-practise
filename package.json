@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/limenghua/js-netlib-practise#readme",
   "dependencies": {
+    "JSONStream": "^1.3.1",
     "amqplib": "^0.5.1",
     "async-pinger": "^1.0.1",
     "moment": "^2.18.1",
@@ -30,5 +31,8 @@
     "telnet-rxjs": "^2.0.1",
     "ws": "^3.0.0",
     "zeromq": "^4.5.0"
+  },
+  "devDependencies": {
+    "should": "^11.2.1"
   }
 }
