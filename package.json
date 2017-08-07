@@ -23,6 +23,7 @@
     "net-ping": "^1.2.0",
     "ping": "^0.2.2",
     "raw-socket": "^1.5.1",
+    "request": "^2.81.0",
     "restify-clients": "^1.5.0",
     "ssh2": "^0.5.5",
     "telnet-client": "^0.15.0",
